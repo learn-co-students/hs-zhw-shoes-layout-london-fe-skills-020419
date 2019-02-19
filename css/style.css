@@ -303,3 +303,19 @@ footer a {
 }
 
 /* code examples copyright Jonathan Grover 2012 */
+
+/*my attempt at new code*/
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-column-gap: 20px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 632px 576px;
+  grid-column-gap: 20px;
+  padding-bottom: 20px
+}
+
