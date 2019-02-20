@@ -24,4 +24,41 @@
 
 /* Positioning Classes */
 
+.big-column {
+  float: left;
+  width: 100%;
+  padding: 5px;
+}
 
+.med-column {
+  float: left;
+  width: 63%;
+}
+.small-column {
+  float: left;
+  width: 30%;
+  
+}
+.shadow {
+  overflow: auto;
+}
+
+
+/*test 
+
+#small-column-bug1 {
+  float: left;
+  width: 30%;
+}
+
+#small-column-bug2 {
+  float: left;
+  width: 30%;
+}
+
+#small-column-bug3 {
+  float: left;
+  width: 30%;
+}
+
+*/
