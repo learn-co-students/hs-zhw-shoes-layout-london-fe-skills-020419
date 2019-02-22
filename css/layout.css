@@ -20,8 +20,38 @@
 
 .clear {
   clear: both;
+  margin: 10px auto;
 }
 
 /* Positioning Classes */
 
+.column {
+  display: inline-block;
+}
 
+ 
+
+#box2 {
+  height: 66%;
+  width: 66%;
+}
+
+  
+#months {
+  float: right;
+}
+
+#bugs{
+  height: 33%;
+  width: 33%;
+}
+
+#allstar{
+  height: 33%;
+  width: 33%;
+}
+
+#hills{
+  height: 33%;
+  width: 33%;
+}
